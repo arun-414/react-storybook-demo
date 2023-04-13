@@ -1,0 +1,26 @@
+.input {
+    padding: 5px 5px;
+}
+
+.standard {
+    border: none;
+    border-bottom: 1px solid black;
+}
+.small {
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.big {
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.normal {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
